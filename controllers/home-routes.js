@@ -21,6 +21,11 @@ router.get('/', (req, res) => {
             attributes: ['username']
           }
         },
+        {
+          model: User,
+          attributes: ['username']
+        }
+
         
       ]
     })
@@ -75,6 +80,10 @@ router.get('/login', (req, res) => {
             attributes: ['username']
           }
         },
+        {
+          model: User,
+          attributes: ['username']
+        }
         
       ]
     })
