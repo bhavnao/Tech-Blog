@@ -48,6 +48,10 @@ npm dependencies with it.
 to the webapp.
 
 ## Screenshot
-
+![Dashboard](./public/images/Screenshot-1.png)
 
 ## Github and Heroku Deployed Link
+
+https://github.com/bhavnao/Tech-Blog
+
+![Demo](https://young-ridge-52472.herokuapp.com)
