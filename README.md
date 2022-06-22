@@ -54,4 +54,4 @@ to the webapp.
 
 https://github.com/bhavnao/Tech-Blog
 
-![Demo](https://young-ridge-52472.herokuapp.com)
+https://young-ridge-52472.herokuapp.com
